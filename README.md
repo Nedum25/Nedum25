@@ -2,7 +2,8 @@
 - 👀 I’m interested in frontend dev
 - 🌱 I’m currently learning frontend
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- i am teachable and I learn fast.
+- 📫 How to reach me 08062177069
 
 <!---
 Nedum25/Nedum25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
