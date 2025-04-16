@@ -10,6 +10,14 @@
 🌍 Passionate about impactful Data science projects | Machine Learning & Deep Learning 
 
 ---
+### 🎓 Education
+- 📘 **MSc in Data Analytics and Technologies**  
+  *University of Greater Manchester, England, UK*
+
+- 📗 **BSc in Statistics**  
+  *Alex Ekwueme Federal University, Ndufu-Alike, Ebonyi State, Nigeria*
+
+---
 
 ### 🛠️ Tech Stack
 **Languages**: R, Python, SQL, Js
