@@ -1,11 +1,27 @@
-- 👋 Hi, I’m @Nedum25
-- 👀 I’m interested in frontend dev
-- 🌱 I’m currently learning frontend
-- 💞️ I’m looking to collaborate on ...
-- i am teachable and I learn fast.
-- 📫 How to reach me 08062177069
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nedum25&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nedum25&layout=compact)
 
-<!---
-Nedum25/Nedum25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi there, I'm Uzim, Chinedu.
+🌟 MSc Data Analytics @ University of Greater Manchester 
+
+💻 R, Python, SQL, Js, | Html, Css
+
+🌍 Passionate about impactful Data science projects | Machine Learning & Deep Learning 
+
+---
+
+### 🛠️ Tech Stack
+**Languages**: R, Python, SQL, Js
+
+**Tools/Libraries**: Tidyverse, ggplot2, caret, xgboost, randomForest, Shiny, keras, sklearn
+
+**Other**: Git, R Markdown, HTML, Web Scraping (rvest, httr), VS Code
+
+---
+
+### 🚀 Let's Connect
+- 🔗 [LinkedIn](https://linkedin.com/in/chinedu-uzim)
+- 🌐 [Portfolio](https://rpubs.com/Uzim_)
+- 💬 Feel free to open an issue or reach out if you'd like to collaborate!
+---
