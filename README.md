@@ -31,7 +31,6 @@
 ### 🚀 Let's Connect
 - 🔗 [LinkedIn](https://linkedin.com/in/chinedu-uzim)
 - 🌐 [Portfolio](https://nedum25.github.io/MyPortfolio/_)
-- 🌐 [Portfolio](https://rpubs.com/Uzim_)
 - 
 - 💬 Feel free to open an issue or reach out if you'd like to collaborate!
 ---
