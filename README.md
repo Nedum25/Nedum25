@@ -3,7 +3,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nedum25&layout=compact)
 
 # 👋 Hi there, I'm Chinedu Uzim
-🌟 MSc Data Analytics @ University of Greater Manchester 
+
 🌟 PhD in Computer Science & Engineering @ Leeds Beckett University
 
 💻 R, Python, SQL, Js, | Html, Css
