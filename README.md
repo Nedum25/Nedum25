@@ -34,7 +34,7 @@
 
 ### 🚀 Let's Connect
 - 🔗 [LinkedIn](https://linkedin.com/in/chinedu-uzim)
-- 🌐 [chineduuzim.com)
+- 🌐 [My Website] (https://chineduuzim.com/)
 - 
 - 💬 Feel free to open an issue or reach out if you'd like to collaborate!
 ---
